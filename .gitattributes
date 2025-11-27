@@ -1,0 +1,3 @@
+*.kml text eol=lf
+ukraine/data/kml/*.kml
+ukraine/data/kml/raw/*.kml
