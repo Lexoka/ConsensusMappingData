@@ -1,4 +1,4 @@
 *.kml text eol=lf
-ukraine/data/kml/*.kml
-ukraine/data/kml/raw/*.kml
-ukraine/data/geojson/*.geojson
+ukraine/data/kml/*.kml text eol=lf
+ukraine/data/kml/raw/*.kml text eol=lf
+ukraine/data/geojson/*.geojson text eol=lf
