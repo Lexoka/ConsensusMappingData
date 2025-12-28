@@ -481,38 +481,6 @@
         <styleUrl>#poly-000000-1200-77-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-01579B-2201-77-normal">
-      <LineStyle>
-        <color>ff9b5701</color>
-        <width>2.201</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4d9b5701</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-01579B-2201-77-highlight">
-      <LineStyle>
-        <color>ff9b5701</color>
-        <width>3.3015</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4d9b5701</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-01579B-2201-77">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-01579B-2201-77-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-01579B-2201-77-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-0288D1-1-54-normal">
       <LineStyle>
         <color>ffd18802</color>
@@ -769,38 +737,6 @@
         <styleUrl>#poly-A52714-2201-77-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-A52714-2301-77-normal">
-      <LineStyle>
-        <color>ff1427a5</color>
-        <width>2.301</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4d1427a5</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-A52714-2301-77-highlight">
-      <LineStyle>
-        <color>ff1427a5</color>
-        <width>3.4515</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4d1427a5</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-A52714-2301-77">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-A52714-2301-77-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-A52714-2301-77-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-B2EBF2-1601-0-normal">
       <LineStyle>
         <color>fff2ebb2</color>
@@ -831,6 +767,38 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-B2EBF2-1601-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-B2EBF2-1901-0-normal">
+      <LineStyle>
+        <color>fff2ebb2</color>
+        <width>1.901</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00f2ebb2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-B2EBF2-1901-0-highlight">
+      <LineStyle>
+        <color>fff2ebb2</color>
+        <width>2.8515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00f2ebb2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-B2EBF2-1901-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-B2EBF2-1901-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-B2EBF2-1901-0-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-B2EBF2-2401-0-normal">
@@ -11378,6 +11346,10 @@
                 37.9608012,48.7408815,0
                 37.9584608,48.7398669,0
                 37.9571075,48.740239,0
+                37.9491454,48.7407532,0
+                37.9503669,48.7452859,0
+                37.9523179,48.7469888,0
+                37.952724,48.7498235,0
                 37.9511721,48.7532391,0
                 37.9589697,48.7559677,0
                 37.9602116,48.7536466,0
@@ -436379,17 +436351,11 @@ also first seconds</name>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name>Recent Reports</name>
       <Placemark>
-        <name>Today</name>
-        <description><![CDATA[description: <br>nombre: ]]></description>
-        <styleUrl>#poly-A52714-2201-77</styleUrl>
+        <name>November</name>
+        <description><![CDATA[<br><br>nombre: ]]></description>
+        <styleUrl>#poly-FF5252-1801-0</styleUrl>
         <ExtendedData>
-          <Data name="description">
-            <value/>
-          </Data>
           <Data name="nombre">
             <value/>
           </Data>
@@ -436497,6 +436463,147 @@ also first seconds</name>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>November</name>
+        <description><![CDATA[<br><br>nombre: ]]></description>
+        <styleUrl>#poly-B2EBF2-1901-0</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                37.8194227,48.563173,0
+                37.8183572,48.5628306,0
+                37.8155719,48.5627847,0
+                37.8167214,48.5599264,0
+                37.8181328,48.5601435,0
+                37.8178168,48.5609784,0
+                37.821525,48.5615971,0
+                37.8223994,48.5620196,0
+                37.8226153,48.5627137,0
+                37.8231531,48.5629853,0
+                37.8251728,48.562435,0
+                37.8272006,48.5614409,0
+                37.8286812,48.5612563,0
+                37.830827,48.5619095,0
+                37.831299,48.5623498,0
+                37.8275225,48.5663258,0
+                37.8258488,48.5660702,0
+                37.8246471,48.5656584,0
+                37.8222439,48.566269,0
+                37.821171,48.565275,0
+                37.8201625,48.5655022,0
+                37.8188536,48.5644372,0
+                37.8199448,48.5641253,0
+                37.8194227,48.563173,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>November</name>
+        <description><![CDATA[<br><br>nombre: ]]></description>
+        <styleUrl>#poly-FF5252-1801-0</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                37.8055576,48.624973,0
+                37.8045165,48.631778,0
+                37.8075842,48.6329077,0
+                37.807745,48.6347514,0
+                37.805449,48.6373322,0
+                37.8017583,48.6376299,0
+                37.7988829,48.6385658,0
+                37.7981963,48.6414867,0
+                37.8002133,48.6416852,0
+                37.8005995,48.6429612,0
+                37.7979388,48.6436985,0
+                37.7946343,48.6438119,0
+                37.7923169,48.6431313,0
+                37.7872529,48.6443506,0
+                37.785665,48.6460519,0
+                37.783133,48.6457967,0
+                37.7816739,48.6467608,0
+                37.780601,48.646052,0
+                37.779614,48.6427344,0
+                37.7797988,48.640571,0
+                37.7823176,48.6405509,0
+                37.7894416,48.6387076,0
+                37.7906003,48.6347089,0
+                37.7939906,48.6355597,0
+                37.7999773,48.6351059,0
+                37.8002991,48.6323123,0
+                37.8015222,48.6307382,0
+                37.7997627,48.6290364,0
+                37.7996983,48.6274763,0
+                37.7992906,48.6263275,0
+                37.8030243,48.6263701,0
+                37.8055576,48.624973,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>November</name>
+        <description><![CDATA[<br><br>nombre: ]]></description>
+        <styleUrl>#poly-FF5252-1801-0</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                38.0397533,48.7684881,0
+                38.0019664,48.76532,0
+                37.997804,48.7642169,0
+                37.9914526,48.7610202,0
+                37.9860452,48.759634,0
+                37.9944566,48.7540038,0
+                37.9955724,48.7509197,0
+                37.9966882,48.7495332,0
+                38.0017522,48.7465337,0
+                38.0021814,48.7449207,0
+                38.0049704,48.7449486,0
+                38.0050777,48.7429959,0
+                38.0095835,48.7435128,0
+                38.0247329,48.7460098,0
+                38.0247329,48.7484575,0
+                38.0235313,48.7483443,0
+                38.0237244,48.7494338,0
+                38.0252908,48.7499006,0
+                38.0259345,48.7514852,0
+                38.0278144,48.7540663,0
+                38.0302607,48.7561044,0
+                38.0423272,48.7653694,0
+                38.0421984,48.7659352,0
+                38.0401814,48.7657372,0
+                38.0397533,48.7684881,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Recent Reports</name>
       <Placemark>
         <name>Today</name>
         <description><![CDATA[description: 24.11.25<br>nombre: ]]></description>
@@ -436964,53 +437071,6 @@ also first seconds</name>
       <Placemark>
         <name>Today</name>
         <description><![CDATA[description: <br>nombre: ]]></description>
-        <styleUrl>#poly-A52714-2101-77</styleUrl>
-        <ExtendedData>
-          <Data name="description">
-            <value/>
-          </Data>
-          <Data name="nombre">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <tessellate>1</tessellate>
-              <coordinates>
-                38.0397533,48.7684881,0
-                38.0019664,48.76532,0
-                37.997804,48.7642169,0
-                37.9914526,48.7610202,0
-                37.9860452,48.759634,0
-                37.9944566,48.7540038,0
-                37.9955724,48.7509197,0
-                37.9966882,48.7495332,0
-                38.0017522,48.7465337,0
-                38.0021814,48.7449207,0
-                38.0049704,48.7449486,0
-                38.0050777,48.7429959,0
-                38.0095835,48.7435128,0
-                38.0247329,48.7460098,0
-                38.0247329,48.7484575,0
-                38.0235313,48.7483443,0
-                38.0237244,48.7494338,0
-                38.0252908,48.7499006,0
-                38.0259345,48.7514852,0
-                38.0278144,48.7540663,0
-                38.0302607,48.7561044,0
-                38.0423272,48.7653694,0
-                38.0421984,48.7659352,0
-                38.0401814,48.7657372,0
-                38.0397533,48.7684881,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>Today</name>
-        <description><![CDATA[description: <br>nombre: ]]></description>
         <styleUrl>#poly-A52714-2201-77</styleUrl>
         <ExtendedData>
           <Data name="description">
@@ -437038,106 +437098,6 @@ also first seconds</name>
                 37.6880798,49.074722,0
                 37.6859713,49.0736923,0
                 37.6845497,49.0714255,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>Today</name>
-        <description><![CDATA[description: <br>nombre: ]]></description>
-        <styleUrl>#poly-A52714-2301-77</styleUrl>
-        <ExtendedData>
-          <Data name="description">
-            <value/>
-          </Data>
-          <Data name="nombre">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <tessellate>1</tessellate>
-              <coordinates>
-                37.8055576,48.624973,0
-                37.8045165,48.631778,0
-                37.8075842,48.6329077,0
-                37.807745,48.6347514,0
-                37.805449,48.6373322,0
-                37.8017583,48.6376299,0
-                37.7988829,48.6385658,0
-                37.7981963,48.6414867,0
-                37.8002133,48.6416852,0
-                37.8005995,48.6429612,0
-                37.7979388,48.6436985,0
-                37.7946343,48.6438119,0
-                37.7923169,48.6431313,0
-                37.7872529,48.6443506,0
-                37.785665,48.6460519,0
-                37.783133,48.6457967,0
-                37.7816739,48.6467608,0
-                37.780601,48.646052,0
-                37.779614,48.6427344,0
-                37.7797988,48.640571,0
-                37.7823176,48.6405509,0
-                37.7894416,48.6387076,0
-                37.7906003,48.6347089,0
-                37.7939906,48.6355597,0
-                37.7999773,48.6351059,0
-                37.8002991,48.6323123,0
-                37.8015222,48.6307382,0
-                37.7997627,48.6290364,0
-                37.7996983,48.6274763,0
-                37.7992906,48.6263275,0
-                37.8030243,48.6263701,0
-                37.8055576,48.624973,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>Today</name>
-        <description><![CDATA[description: <br>nombre: ]]></description>
-        <styleUrl>#poly-01579B-2201-77</styleUrl>
-        <ExtendedData>
-          <Data name="description">
-            <value/>
-          </Data>
-          <Data name="nombre">
-            <value/>
-          </Data>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <tessellate>1</tessellate>
-              <coordinates>
-                37.8194227,48.563173,0
-                37.8183572,48.5628306,0
-                37.8155719,48.5627847,0
-                37.8167214,48.5599264,0
-                37.8181328,48.5601435,0
-                37.8178168,48.5609784,0
-                37.821525,48.5615971,0
-                37.8223994,48.5620196,0
-                37.8226153,48.5627137,0
-                37.8231531,48.5629853,0
-                37.8251728,48.562435,0
-                37.8272006,48.5614409,0
-                37.8286812,48.5612563,0
-                37.830827,48.5619095,0
-                37.831299,48.5623498,0
-                37.8275225,48.5663258,0
-                37.8258488,48.5660702,0
-                37.8246471,48.5656584,0
-                37.8222439,48.566269,0
-                37.821171,48.565275,0
-                37.8201625,48.5655022,0
-                37.8188536,48.5644372,0
-                37.8199448,48.5641253,0
-                37.8194227,48.563173,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -439937,7 +439897,7 @@ https://t.me/vovkodavy34</value>
       </Placemark>
       <Placemark>
         <name><![CDATA[Russian combined strikes using "Molniya" Drones, FPVs, and strikes from Russian air forces to root out a Ukrainian defender in the high rise apartments buildings of the 3rd Microdistrict in Stepnogorsk.]]></name>
-        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqU1xEAylqbEqMYtykjiSAvT0hTg1GLr7CXxuUYvFyiA6vtTWPyyiNY1oIipgx58wSOZgNy6K_M35DGrA6Ppli1fhQjc_67UeIi65AmmoyTuS4NvPThyEjwQ2d4Kx4v_ZIfPJLFFBn9_5c8bllqMCZiGX60pqDsVgGn4OzjbWdqeptXZHqYfyjRXQpMzqVfsivGeRdoe-B3IFbmACL7vfzo3yN2lGBeJitHSiNmvyC59Ngy41c5CR4EGWM?fife=s16383" height="200" width="auto" /><br><br><br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopddY8wA3cCgDEwUWNO5Xjgbc9h2a0WZ2XhNlj4PBF27UUIrjSF9P9Gx96WFBU3n1jV7mTKTnhdmFLI_EB66YVCNqtLhymJGs9KVHFblEEMAbWTgTUbQt2LAEjtetM7eNeloaerivgoffzQCWxVlzA9VVvnnpD3zLr45eoikqZ99ZTvEUHg3Isj-8uFk3h2Gt0aPAgH41Sb3_ZIMQwhGDQnawAN6nSxxhoojq-uvcD4Z0bJEwylrItraZQ?fife=s16383" height="200" width="auto" /><br><br><br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
         <styleUrl>#icon-1564-A52714</styleUrl>
         <ExtendedData>
           <Data name="nombre">
@@ -439953,7 +439913,7 @@ https://t.me/vovkodavy34</value>
             <value/>
           </Data>
           <Data name="gx_media_links">
-            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqU1xEAylqbEqMYtykjiSAvT0hTg1GLr7CXxuUYvFyiA6vtTWPyyiNY1oIipgx58wSOZgNy6K_M35DGrA6Ppli1fhQjc_67UeIi65AmmoyTuS4NvPThyEjwQ2d4Kx4v_ZIfPJLFFBn9_5c8bllqMCZiGX60pqDsVgGn4OzjbWdqeptXZHqYfyjRXQpMzqVfsivGeRdoe-B3IFbmACL7vfzo3yN2lGBeJitHSiNmvyC59Ngy41c5CR4EGWM?fife=s16383</value>
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopddY8wA3cCgDEwUWNO5Xjgbc9h2a0WZ2XhNlj4PBF27UUIrjSF9P9Gx96WFBU3n1jV7mTKTnhdmFLI_EB66YVCNqtLhymJGs9KVHFblEEMAbWTgTUbQt2LAEjtetM7eNeloaerivgoffzQCWxVlzA9VVvnnpD3zLr45eoikqZ99ZTvEUHg3Isj-8uFk3h2Gt0aPAgH41Sb3_ZIMQwhGDQnawAN6nSxxhoojq-uvcD4Z0bJEwylrItraZQ?fife=s16383</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -439964,7 +439924,7 @@ https://t.me/vovkodavy34</value>
       </Placemark>
       <Placemark>
         <name><![CDATA[Russian combined strikes using "Molniya" Drones, FPVs, and strikes from Russian air forces to root out a Ukrainian defender in the high rise apartments buildings of the 3rd Microdistrict in Stepnogorsk]]></name>
-        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop9ywaETZ-cB7Ismrnh8S0GBXUl6wYjsWq8y-LiRnjt5ztvCtJOQk2IBezWfmqat80ot2UTb90xzaXwlL2RASXI0C7P_D476XX9o5W7VF89QM5nBUG05lygWCsC4uGKTU5Ua1pyLemOfuWm6aS-UXbfw_6li9WSChD1TjK5O08ERZLL_Uj-Xfvw4SrdmMtQIKaGWe1QeJZTKjlOrgrLVM_E0zprVHIB4WHtRUOrh2_bqNkxQviBsif7V1c?fife=s16383" height="200" width="auto" /><br><br><br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqxEp-TbRnbGPFhzYZY8ZXu8tR6QCJ0CYYUN5Fd5FC4b1fcW2ikmKmubJ-vLtEbPuReiJ8g2OrM4VHC0cZL5VJZu_5ZLWsI1WPtZRiouG7AvVuWpHiUIBxpu6bycPIWFe3vSWPiNFm1LBev3H_gsr_4kj5R0S6eiR1Zgc2T85_b8FgOebHaMhFs2EXStkZY5lO0Gc2zduQbQAnyZlfJxXEDmedXbp9wOwcemkrJZqssYYc08InPr2ss4ag?fife=s16383" height="200" width="auto" /><br><br><br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
         <styleUrl>#icon-1564-A52714</styleUrl>
         <ExtendedData>
           <Data name="nombre">
@@ -439980,7 +439940,7 @@ https://t.me/vovkodavy34</value>
             <value/>
           </Data>
           <Data name="gx_media_links">
-            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop9ywaETZ-cB7Ismrnh8S0GBXUl6wYjsWq8y-LiRnjt5ztvCtJOQk2IBezWfmqat80ot2UTb90xzaXwlL2RASXI0C7P_D476XX9o5W7VF89QM5nBUG05lygWCsC4uGKTU5Ua1pyLemOfuWm6aS-UXbfw_6li9WSChD1TjK5O08ERZLL_Uj-Xfvw4SrdmMtQIKaGWe1QeJZTKjlOrgrLVM_E0zprVHIB4WHtRUOrh2_bqNkxQviBsif7V1c?fife=s16383</value>
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBoqxEp-TbRnbGPFhzYZY8ZXu8tR6QCJ0CYYUN5Fd5FC4b1fcW2ikmKmubJ-vLtEbPuReiJ8g2OrM4VHC0cZL5VJZu_5ZLWsI1WPtZRiouG7AvVuWpHiUIBxpu6bycPIWFe3vSWPiNFm1LBev3H_gsr_4kj5R0S6eiR1Zgc2T85_b8FgOebHaMhFs2EXStkZY5lO0Gc2zduQbQAnyZlfJxXEDmedXbp9wOwcemkrJZqssYYc08InPr2ss4ag?fife=s16383</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -439991,7 +439951,7 @@ https://t.me/vovkodavy34</value>
       </Placemark>
       <Placemark>
         <name><![CDATA[Russian combined strikes using "Molniya" Drones, FPVs, and strikes from Russian air forces to root out a Ukrainian defender in the high rise apartments buildings of the 3rd Microdistrict in Stepnogorsk]]></name>
-        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopWR2wVTM5RgtpQtJx4koiRrPt0cza4XAx_6w834j90VLdrxxOx-2KFa1_5ZPKbZQzUTe7j3iUT4Nbjt23--k1H2X51Rk4Q_4SP_L0N9heCzfHi3R4ERotGvXZelMxJJupEB-nwRCmYpH-AqocSeoWf4OdclVZWnuWyOkjrRnU7xfABJp1202-mANRzyw8itv2j-RrRdUeh-DB_TFDQRO4kdpvkCYHZ0Z1sqDStED-AH9NXk0gEmIZ67kA?fife=s16383" height="200" width="auto" /><br><br><br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop3O9cwIX5BEvYQpG4jzxKZQFLjYcoWPnNBShg7L6Ld1GKighJWz7XI-ChScUTwakzvEZlANTIlKTQMNPYwdNyGQr0_I25r-oa-ucZtbZc-wBtPX_KFW90C2u3EV4d3KY--xJ8KVwgBLQANVe-_G1FB3o_cEKHOhUkoT79SweaFmDKyzblrc_a3mUQKOSwQmUJi8ndv7SCok-oZFy5UlGPXqoPnzUU9Kfxji_FGkiGR1Ow-tAenTCNh1b4?fife=s16383" height="200" width="auto" /><br><br><br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
         <styleUrl>#icon-1564-A52714</styleUrl>
         <ExtendedData>
           <Data name="nombre">
@@ -440007,7 +439967,7 @@ https://t.me/vovkodavy34</value>
             <value/>
           </Data>
           <Data name="gx_media_links">
-            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBopWR2wVTM5RgtpQtJx4koiRrPt0cza4XAx_6w834j90VLdrxxOx-2KFa1_5ZPKbZQzUTe7j3iUT4Nbjt23--k1H2X51Rk4Q_4SP_L0N9heCzfHi3R4ERotGvXZelMxJJupEB-nwRCmYpH-AqocSeoWf4OdclVZWnuWyOkjrRnU7xfABJp1202-mANRzyw8itv2j-RrRdUeh-DB_TFDQRO4kdpvkCYHZ0Z1sqDStED-AH9NXk0gEmIZ67kA?fife=s16383</value>
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3ALCsBop3O9cwIX5BEvYQpG4jzxKZQFLjYcoWPnNBShg7L6Ld1GKighJWz7XI-ChScUTwakzvEZlANTIlKTQMNPYwdNyGQr0_I25r-oa-ucZtbZc-wBtPX_KFW90C2u3EV4d3KY--xJ8KVwgBLQANVe-_G1FB3o_cEKHOhUkoT79SweaFmDKyzblrc_a3mUQKOSwQmUJi8ndv7SCok-oZFy5UlGPXqoPnzUU9Kfxji_FGkiGR1Ow-tAenTCNh1b4?fife=s16383</value>
           </Data>
         </ExtendedData>
         <Point>
