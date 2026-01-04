@@ -343,6 +343,40 @@
         <styleUrl>#icon-1561-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1564-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1564-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1564-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1564-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1564-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1569-F9A825-normal">
       <IconStyle>
         <color>ff25a8f9</color>
@@ -12052,7 +12086,9 @@ nombre:</value>
                   37.6018751,49.7470472,0
                   37.5974686,49.7426447,0
                   37.5904038,49.7348012,0
-                  37.5999375,49.7255892,0
+                  37.597663,49.728613,0
+                  37.6031816,49.7259933,0
+                  37.6091716,49.7186845,0
                   37.6082767,49.7151092,0
                   37.6058869,49.7038507,0
                   37.5997928,49.6944686,0
@@ -13511,12 +13547,9 @@ nombre:</value>
                 37.0906097,48.3210773,0
                 37.0992528,48.323155,0
                 37.1206512,48.3163723,0
-                37.1204197,48.3119285,0
-                37.1312855,48.3095469,0
-                37.1480162,48.3106795,0
-                37.1458393,48.3226275,0
-                37.1573406,48.3233731,0
-                37.1561402,48.3335917,0
+                37.1332533,48.3165019,0
+                37.1307331,48.3268506,0
+                37.1297031,48.3321613,0
                 37.1886399,48.3358345,0
                 37.1858698,48.3454712,0
                 37.1849793,48.3533251,0
@@ -13531,9 +13564,9 @@ nombre:</value>
                 37.2120966,48.4170791,0
                 37.2092136,48.4248494,0
                 37.2081325,48.4339299,0
-                37.2269674,48.4368046,0
-                37.2308059,48.4371034,0
-                37.2289797,48.4437512,0
+                37.2155519,48.4347546,0
+                37.2141547,48.4459289,0
+                37.2321554,48.4500138,0
                 37.2355374,48.4552458,0
                 37.2450358,48.4658832,0
                 37.2679234,48.4754943,0
@@ -14052,6 +14085,42 @@ nombre:</value>
                 38.0139827,48.8169882,0
                 38.021044,48.8270956,0
                 38.0150985,48.8286857,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Многоугольник 189</name>
+        <description><![CDATA[<br><br>descripción: <br>nombre: <br>nom: ]]></description>
+        <styleUrl>#poly-F48FB1-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="nom">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                37.1681741,48.3281469,0
+                37.1596289,48.3290814,0
+                37.154994,48.3283966,0
+                37.1549082,48.3238311,0
+                37.144937,48.315769,0
+                37.1461992,48.3067492,0
+                37.1563295,48.3050872,0
+                37.1547845,48.3138785,0
+                37.1640543,48.3147918,0
+                37.1680025,48.321641,0
+                37.1681741,48.3281469,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -16391,12 +16460,11 @@ nombre:</value>
                 37.5673931,49.6872289,0
                 37.5592538,49.6964597,0
                 37.5501135,49.6976615,0
-                37.537168,49.7012608,0
-                37.5259512,49.7089891,0
-                37.53113,49.7277043,0
+                37.5399146,49.7048135,0
+                37.5405714,49.7174944,0
                 37.5473363,49.7272911,0
-                37.560447,49.7261293,0
-                37.5796616,49.7228249,0
+                37.5642236,49.7188048,0
+                37.5762284,49.7209383,0
                 37.5842849,49.7337226,0
                 37.5723333,49.7542897,0
                 37.5655099,49.7552699,0
@@ -16879,6 +16947,30 @@ nombre:</value>
             37.9344455,48.6128276,0
           </coordinates>
         </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Точка 58</name>
+        <description><![CDATA[nombre: <br>descripción: <br>description: <br>nimi: ]]></description>
+        <styleUrl>#icon-1564-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="nimi">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.162883,48.344089,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
     <Folder>

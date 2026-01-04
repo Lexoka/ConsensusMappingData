@@ -6,7 +6,7 @@
     "layers_ingested": 11,
     "layers_empty": 1,
     "layers_skipped": 0,
-    "input_features": 278,
+    "input_features": 276,
     "dropped_features": 10,
     "output_features": 11
   },
@@ -55,8 +55,8 @@
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/ClaimedRussianTerritoryinUkraine_V2_view/FeatureServer/0",
       "name": "ClaimedRussianTerritoryinUkraine_V2",
       "skipped": false,
-      "objectid_count": 129,
-      "feature_count": 126,
+      "objectid_count": 127,
+      "feature_count": 124,
       "chunk_size": 500
     },
     {
@@ -87,8 +87,8 @@
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/Assessed_Russian_Gains_in_the_Past_24_Hours_view/FeatureServer/0",
       "name": "Assessed_Russian_Gains_in_the_Past_24_Hours",
       "skipped": false,
-      "objectid_count": 2,
-      "feature_count": 2,
+      "objectid_count": 1,
+      "feature_count": 1,
       "chunk_size": 500
     },
     {
@@ -103,8 +103,8 @@
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/MDS_ClaimedUkrainianCounteroffensivesinthePast24HoursV2_view/FeatureServer/13",
       "name": "ClaimedUkrainianCounteroffensivesinthePast24HoursV2",
       "skipped": false,
-      "objectid_count": 1,
-      "feature_count": 1,
+      "objectid_count": 2,
+      "feature_count": 2,
       "chunk_size": 500
     }
   ]
