@@ -55,8 +55,8 @@
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/ClaimedRussianTerritoryinUkraine_V2_view/FeatureServer/0",
       "name": "ClaimedRussianTerritoryinUkraine_V2",
       "skipped": false,
-      "objectid_count": 127,
-      "feature_count": 124,
+      "objectid_count": 128,
+      "feature_count": 125,
       "chunk_size": 500
     },
     {
@@ -103,8 +103,8 @@
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/MDS_ClaimedUkrainianCounteroffensivesinthePast24HoursV2_view/FeatureServer/13",
       "name": "ClaimedUkrainianCounteroffensivesinthePast24HoursV2",
       "skipped": false,
-      "objectid_count": 2,
-      "feature_count": 2,
+      "objectid_count": 1,
+      "feature_count": 1,
       "chunk_size": 500
     }
   ]
