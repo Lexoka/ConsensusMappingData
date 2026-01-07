@@ -2313,6 +2313,38 @@
         <styleUrl>#poly-C2185B-901-99-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-F48FB1-1200-77-normal">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F48FB1-1200-77-highlight">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F48FB1-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F48FB1-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F48FB1-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-FFD600-1200-77-normal">
       <LineStyle>
         <color>ff00d6ff</color>
@@ -8717,10 +8749,18 @@
                 35.197628,47.6897469,0
                 35.2199693,47.673412,0
                 35.2534464,47.649055,0
-                35.2759202,47.641805,0
-                35.2943347,47.6397058,0
-                35.3256271,47.6421156,0
-                35.3509081,47.6373524,0
+                35.2863915,47.6641224,0
+                35.3061793,47.6769363,0
+                35.3146899,47.6879129,0
+                35.3316504,47.6853104,0
+                35.3435627,47.6878216,0
+                35.3558166,47.6778506,0
+                35.3403659,47.6657964,0
+                35.3517848,47.6559534,0
+                35.3539775,47.6393503,0
+                35.3362592,47.6415988,0
+                35.3374717,47.6349443,0
+                35.3490198,47.6302961,0
                 35.3330995,47.6107209,0
                 35.3328776,47.6080938,0
                 35.3372056,47.60454,0
@@ -13156,11 +13196,13 @@ nombre:</value>
                   37.0386526,48.2461343,0
                   37.016619,48.242944,0
                   37.012083,48.2625558,0
-                  36.9925136,48.2620986,0
-                  36.9802117,48.2587595,0
-                  36.9832157,48.2449862,0
-                  36.9801148,48.2432643,0
-                  36.9805224,48.2398274,0
+                  36.9970626,48.2621557,0
+                  36.9939446,48.2575023,0
+                  36.9986217,48.2579307,0
+                  37.0003591,48.2495727,0
+                  36.9894696,48.2498517,0
+                  36.9871639,48.2405276,0
+                  36.981724,48.2399989,0
                   36.9705343,48.2399273,0
                   36.9684958,48.2392128,0
                   36.9455706,48.2406553,0
@@ -13936,6 +13978,44 @@ nombre:</value>
                 36.8112866,48.1397945,0
                 36.8215862,48.1442619,0
                 36.8104283,48.1510194,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Многоугольник 181</name>
+        <description><![CDATA[<br><br>descripción: <br>nombre: <br>nom: ]]></description>
+        <styleUrl>#poly-F48FB1-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="nom">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                35.2803229,47.6290674,0
+                35.2887343,47.6308027,0
+                35.3045272,47.628489,0
+                35.3146194,47.6122655,0
+                35.3202842,47.612497,0
+                35.3216575,47.6143485,0
+                35.3125594,47.6182828,0
+                35.3134177,47.6286958,0
+                35.3080962,47.6377187,0
+                35.2881835,47.6451209,0
+                35.2806304,47.6431548,0
+                35.2785705,47.6332075,0
+                35.2803229,47.6290674,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
