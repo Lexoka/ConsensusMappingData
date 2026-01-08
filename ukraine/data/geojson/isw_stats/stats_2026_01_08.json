@@ -3,12 +3,12 @@
   "date": "2026_01_08",
   "summary": {
     "layers_total": 12,
-    "layers_ingested": 10,
-    "layers_empty": 2,
+    "layers_ingested": 9,
+    "layers_empty": 3,
     "layers_skipped": 0,
-    "input_features": 251,
+    "input_features": 249,
     "dropped_features": 10,
-    "output_features": 10
+    "output_features": 9
   },
   "layers": [
     {
@@ -87,8 +87,8 @@
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/Assessed_Russian_Gains_in_the_Past_24_Hours_view/FeatureServer/0",
       "name": "Assessed_Russian_Gains_in_the_Past_24_Hours",
       "skipped": false,
-      "objectid_count": 2,
-      "feature_count": 2,
+      "objectid_count": 0,
+      "feature_count": 0,
       "chunk_size": 500
     },
     {
