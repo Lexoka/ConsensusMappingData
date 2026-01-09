@@ -735,6 +735,38 @@
         <styleUrl>#poly-A52714-2201-77-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-A52714-2201-79-normal">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>2.201</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4f1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-A52714-2201-79-highlight">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>3.3015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4f1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-A52714-2201-79">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A52714-2201-79-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A52714-2201-79-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-B2EBF2-1601-0-normal">
       <LineStyle>
         <color>fff2ebb2</color>
@@ -4740,11 +4772,14 @@
                 37.1063418,48.3160452,0
                 37.1048666,48.3159284,0
                 37.1041907,48.3154807,0
-                37.1022595,48.3160978,0
-                37.1007351,48.3140661,0
-                37.098803,48.3143105,0
-                37.0945959,48.3122877,0
-                37.094121,48.3111818,0
+                37.1026028,48.3143283,0
+                37.1033269,48.3138353,0
+                37.1022914,48.3128428,0
+                37.1014222,48.3130556,0
+                37.1009282,48.3124821,0
+                37.1012921,48.3106429,0
+                37.0994453,48.3101328,0
+                37.0965243,48.3116242,0
                 37.0931285,48.3096264,0
                 37.0916165,48.3094547,0
                 37.0881568,48.3032679,0
@@ -4801,18 +4836,33 @@
                 36.9318063,48.2444593,0
                 36.9315059,48.2460026,0
                 36.9250686,48.2458025,0
-                36.926935,48.2361229,0
-                36.9298815,48.221179,0
-                36.9398082,48.2220269,0
-                36.9394351,48.2203585,0
-                36.9394464,48.2183788,0
-                36.9380958,48.2165354,0
-                36.936339,48.2151933,0
-                36.93473,48.2126484,0
-                36.9375303,48.2088306,0
-                36.9378845,48.2070146,0
-                36.9370352,48.2046249,0
-                36.9353186,48.2032806,0
+                36.9262673,48.2394887,0
+                36.9147124,48.2390528,0
+                36.914251,48.2411537,0
+                36.9171049,48.2414609,0
+                36.9169118,48.2447619,0
+                36.9165041,48.2463909,0
+                36.9157102,48.2468339,0
+                36.9153454,48.2480627,0
+                36.9135644,48.2481342,0
+                36.9133713,48.2488058,0
+                36.9126846,48.2488772,0
+                36.9123199,48.251049,0
+                36.9089939,48.2507061,0
+                36.9096574,48.2475429,0
+                36.9060954,48.2472286,0
+                36.90734,48.2404837,0
+                36.9101295,48.2407266,0
+                36.9107931,48.238902,0
+                36.9112652,48.235915,0
+                36.9186037,48.2362152,0
+                36.9234746,48.2137001,0
+                36.9272083,48.2140576,0
+                36.928367,48.2146438,0
+                36.930384,48.2145866,0
+                36.9314783,48.2139861,0
+                36.9323152,48.2139146,0
+                36.934536,48.2035043,0
                 36.9327865,48.2039956,0
                 36.9314133,48.2019076,0
                 36.9333444,48.1987611,0
@@ -7946,19 +7996,15 @@
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                36.8784422,48.1583468,0
-                36.8887932,48.1594702,0
-                36.8900853,48.1540053,0
-                36.9003891,48.1550103,0
-                36.8985653,48.1622945,0
-                36.8789415,48.1599827,0
-                36.8774112,48.1666123,0
+                36.8782276,48.1590482,0
+                36.8788342,48.1590953,0
+                36.8771323,48.1665479,0
                 36.8839847,48.1680095,0
                 36.8805339,48.1704826,0
                 36.882147,48.1741006,0
                 36.8756846,48.1732945,0
                 36.874912,48.1732232,0
-                36.8784422,48.1583468,0
+                36.8782276,48.1590482,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -11785,14 +11831,15 @@
                 36.8153153,48.1337815,0
                 36.8157245,48.133891,0
                 36.8174639,48.1250976,0
-                36.8024105,48.1233773,0
-                36.8077771,48.1011329,0
-                36.8324379,48.1035639,0
-                36.8326209,48.1026868,0
-                36.8722079,48.1067941,0
-                36.866527,48.1336085,0
-                36.8844494,48.1357659,0
-                36.8784422,48.1583468,0
+                36.8026036,48.1233845,0
+                36.8077127,48.1015915,0
+                36.8324594,48.1039794,0
+                36.8326209,48.1028444,0
+                36.871886,48.1068801,0
+                36.8656687,48.1340381,0
+                36.8840846,48.1358232,0
+                36.8788342,48.1590953,0
+                36.8782276,48.1590482,0
                 36.874912,48.1732232,0
                 36.8756846,48.1732945,0
                 36.8733202,48.1836854,0
@@ -11826,20 +11873,15 @@
                 36.9093575,48.1947849,0
                 36.9081217,48.1963803,0
                 36.9090142,48.2014185,0
-                36.9119856,48.2075987,0
-                36.9242268,48.2144639,0
-                36.9190842,48.23915,0
-                36.9147088,48.2389971,0
-                36.9142658,48.2412112,0
-                36.9170332,48.2417255,0
-                36.9167751,48.2440689,0
-                36.9164521,48.2464836,0
-                36.915806,48.2467403,0
-                36.9153292,48.2479968,0
-                36.9136031,48.2481665,0
-                36.9134124,48.2487631,0
-                36.9126446,48.248899,0
-                36.9118815,48.252743,0
+                36.9095823,48.2076559,0
+                36.9081497,48.2124469,0
+                36.9100647,48.2143495,0
+                36.9048623,48.2386871,0
+                36.9001893,48.2386791,0
+                36.8956261,48.2387896,0
+                36.8939669,48.249042,0
+                36.904104,48.2500355,0
+                36.9037061,48.2520358,0
                 36.9234798,48.2536329,0
                 36.9122149,48.3089674,0
                 36.8737121,48.3055766,0
@@ -12697,14 +12739,13 @@
                 36.952311,48.253004,0
                 36.952659,48.253491,0
                 36.951983,48.254578,0
-                36.961788,48.255587,0
-                36.968529,48.256256,0
-                36.972845,48.254854,0
-                36.97513,48.253311,0
-                36.977388,48.25261,0
-                36.977957,48.254539,0
-                36.976267,48.255375,0
-                36.972903,48.256382,0
+                36.9617773,48.2554727,0
+                36.9609635,48.2592074,0
+                36.9632765,48.2584175,0
+                36.9656775,48.2570939,0
+                36.9684217,48.2561417,0
+                36.9703977,48.2574377,0
+                36.968404,48.2581336,0
                 36.966777,48.258554,0
                 36.957469,48.264012,0
                 36.957236,48.266226,0
@@ -12717,7 +12758,15 @@
                 36.9681069,48.2698866,0
                 36.9663554,48.2769776,0
                 36.9855298,48.2788739,0
-                36.998494,48.277485,0
+                36.9864325,48.2800436,0
+                36.988107,48.2797146,0
+                36.9910689,48.279614,0
+                36.992574,48.2793257,0
+                36.9975584,48.2798344,0
+                36.9977424,48.2787382,0
+                36.998797,48.2784878,0
+                37.0014212,48.2786439,0
+                37.0018629,48.2778991,0
                 37.009928,48.27863,0
                 37.009549,48.279901,0
                 37.026973,48.281679,0
@@ -438002,6 +438051,111 @@ also first seconds</name>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>Today</name>
+        <description><![CDATA[description: <br>nombre: ]]></description>
+        <styleUrl>#poly-A52714-2201-79</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                36.934536,48.2035043,0
+                36.9353186,48.2032806,0
+                36.9370352,48.2046249,0
+                36.9378845,48.2070146,0
+                36.9375303,48.2088306,0
+                36.93473,48.2126484,0
+                36.936339,48.2151933,0
+                36.9380958,48.2165354,0
+                36.9394464,48.2183788,0
+                36.9394351,48.2203585,0
+                36.9398082,48.2220269,0
+                36.9298815,48.221179,0
+                36.9262673,48.2394887,0
+                36.9147124,48.2390528,0
+                36.914251,48.2411537,0
+                36.9171049,48.2414609,0
+                36.9169118,48.2447619,0
+                36.9165041,48.2463909,0
+                36.9157102,48.2468339,0
+                36.9153454,48.2480627,0
+                36.9135644,48.2481342,0
+                36.9133713,48.2488058,0
+                36.9126846,48.2488772,0
+                36.9123199,48.251049,0
+                36.9089939,48.2507061,0
+                36.9096574,48.2475429,0
+                36.9060954,48.2472286,0
+                36.90734,48.2404837,0
+                36.9101295,48.2407266,0
+                36.9107931,48.238902,0
+                36.9112652,48.235915,0
+                36.9186037,48.2362152,0
+                36.9234746,48.2137001,0
+                36.9272083,48.2140576,0
+                36.928367,48.2146438,0
+                36.930384,48.2145866,0
+                36.9314783,48.2139861,0
+                36.9323152,48.2139146,0
+                36.934536,48.2035043,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Today</name>
+        <description><![CDATA[description: <br>nombre: ]]></description>
+        <styleUrl>#poly-A52714-2101-77</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                36.9975156,48.2601147,0
+                36.9875247,48.2591968,0
+                36.98672,48.2592397,0
+                36.9830829,48.2589683,0
+                36.9826752,48.2586968,0
+                36.9827396,48.2581111,0
+                36.9814951,48.2578825,0
+                36.9814951,48.2577683,0
+                36.9808513,48.2576968,0
+                36.9835265,48.2448961,0
+                36.985074,48.2450578,0
+                36.9855461,48.2429143,0
+                36.9894513,48.2432859,0
+                36.9886574,48.2488659,0
+                36.9950359,48.2491213,0
+                36.9956917,48.2463774,0
+                37.0013565,48.2469633,0
+                36.9988352,48.2581219,0
+                36.9985134,48.2580862,0
+                36.9982344,48.2593648,0
+                36.9976551,48.2593148,0
+                36.9975156,48.2601147,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Confirmed Presence of Units</name>
@@ -442406,6 +442560,222 @@ https://t.me/vovkodavy34</value>
         <Point>
           <coordinates>
             37.15888,48.32475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3rd Spartan hit Russian forces in Molodetske</name>
+        <description><![CDATA[https://t.me/creamy_caprice/10686<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1564-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.92672,48.24112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Russian infantry hit in building in Novopidhorodne by drone</name>
+        <description><![CDATA[https://t.me/creamy_caprice/10750<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1564-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.913095,48.245107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ukrainian forces blew up the school building in Novopidhorodne, Dnipropetrovsk, Oblast</name>
+        <description><![CDATA[https://x.com/Bielitzling/status/2001059232607617521?s=20<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1564-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.899987,48.24398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4th Ranger Regiment north of Udachne observes Russian infantry presence</name>
+        <description><![CDATA[https://x.com/AudaxonX/status/2006150368929992858<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1731-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.991886,48.259056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4th Ranger Regiment north of Udachne observes a Russian position shelled</name>
+        <description><![CDATA[https://x.com/AudaxonX/status/2006150368929992858<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1564-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.99142,48.258647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4th Ranger Regiment north of Udachne observes Russian infantry presence</name>
+        <description><![CDATA[https://x.com/AudaxonX/status/2006150368929992858<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1731-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.990139,48.25795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Russian infantry hit northwest of Pokrovsk, near Hryshyne by 32nd Mech</name>
+        <description><![CDATA[https://t.me/creamy_caprice/10824<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1564-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.09213,48.29994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>82nd Air Assault hits Russian infantry in Hryshyne</name>
+        <description><![CDATA[https://t.me/creamy_caprice/10797<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1564-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.103068,48.308595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>35th Motor Rifle Brigade hit UA position in Hryshyne.</name>
+        <description><![CDATA[https://x.com/richardzai38580/status/2005711709684781334<br><br>nombre: <br>descripción: <br>название: <br>описание: ]]></description>
+        <styleUrl>#icon-1564-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="название">
+            <value/>
+          </Data>
+          <Data name="описание">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            37.097055,48.314325,0
           </coordinates>
         </Point>
       </Placemark>
