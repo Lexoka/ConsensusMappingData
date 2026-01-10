@@ -2313,6 +2313,38 @@
         <styleUrl>#poly-C2185B-901-99-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-F48FB1-1200-77-normal">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F48FB1-1200-77-highlight">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F48FB1-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F48FB1-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F48FB1-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-FFD600-1200-77-normal">
       <LineStyle>
         <color>ff00d6ff</color>
@@ -14081,6 +14113,42 @@ nombre:</value>
                 37.2578712,48.3869144,0
                 37.2570729,48.3873029,0
                 37.2567349,48.3862627,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Многоугольник 188</name>
+        <description><![CDATA[<br><br>descripción: <br>nombre: <br>nom: ]]></description>
+        <styleUrl>#poly-F48FB1-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="nom">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                37.6586686,49.0581053,0
+                37.675088,49.0652791,0
+                37.6912241,49.0588678,0
+                37.7089052,49.0542556,0
+                37.7189221,49.0496813,0
+                37.7136579,49.0564578,0
+                37.7073603,49.0583054,0
+                37.69836,49.0622914,0
+                37.6992299,49.0669974,0
+                37.6789738,49.0700902,0
+                37.6586686,49.0581053,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>

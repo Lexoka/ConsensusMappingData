@@ -644,6 +644,28 @@ nombre:</value>
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>RU_Многоугольник 188</name>
+        <ExtendedData>
+          <Data name="descripción">
+            <value />
+          </Data>
+          <Data name="nombre">
+            <value />
+          </Data>
+          <Data name="nom">
+            <value />
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>37.6586686,49.0581053 37.675088,49.0652791 37.6912241,49.0588678 37.7089052,49.0542556 37.7189221,49.0496813 37.7136579,49.0564578 37.7073603,49.0583054 37.69836,49.0622914 37.6992299,49.0669974 37.6789738,49.0700902 37.6586686,49.0581053</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Украина</name>
