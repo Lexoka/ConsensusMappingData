@@ -2313,6 +2313,38 @@
         <styleUrl>#poly-C2185B-901-99-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-F48FB1-1200-77-normal">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F48FB1-1200-77-highlight">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F48FB1-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F48FB1-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F48FB1-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-FFD600-1200-77-normal">
       <LineStyle>
         <color>ff00d6ff</color>
@@ -8602,9 +8634,11 @@
                 35.8964488,47.541606,0
                 35.9299483,47.5376783,0
                 35.9594753,47.5311892,0
-                35.9919194,47.5255665,0
-                35.9955638,47.5322632,0
-                36.0494264,47.5406337,0
+                35.9630803,47.5326369,0
+                35.9650081,47.5432727,0
+                35.9986352,47.5463642,0
+                36.0115009,47.5408365,0
+                36.0489114,47.5392431,0
                 36.0735451,47.5636315,0
                 36.0829865,47.5860983,0
                 36.1070193,47.5995275,0
@@ -8626,12 +8660,16 @@
                 36.1730782,47.6830038,0
                 36.1774857,47.6928555,0
                 36.1749553,47.6997661,0
-                36.1891074,47.7205209,0
-                36.1814571,47.7309928,0
-                36.1836657,47.7360012,0
-                36.1803571,47.739899,0
-                36.1838679,47.7476957,0
-                36.1809312,47.7562489,0
+                36.1772252,47.7051767,0
+                36.1709113,47.7177492,0
+                36.1569095,47.7182905,0
+                36.1525478,47.7270766,0
+                36.1576276,47.7359781,0
+                36.156629,47.7407345,0
+                36.1684274,47.7405696,0
+                36.1680372,47.7455302,0
+                36.1454158,47.7452717,0
+                36.144539,47.7552102,0
                 36.1304377,47.7551045,0
                 36.1294591,47.7907446,0
                 36.1375507,47.8040059,0
@@ -13492,9 +13530,9 @@ nombre:</value>
                 36.7038321,48.1144835,0
                 36.6999226,48.1115061,0
                 36.6977299,48.1065801,0
-                36.7209294,48.1021173,0
-                36.7345636,48.1045766,0
-                36.7412133,48.1079968,0
+                36.7049883,48.1063814,0
+                36.7225473,48.1107663,0
+                36.7406983,48.1126961,0
                 36.7450966,48.1210532,0
                 36.7510886,48.1252192,0
                 36.7593986,48.1261191,0
@@ -13630,9 +13668,10 @@ nombre:</value>
                 37.5259984,48.4810698,0
                 37.5279863,48.4778866,0
                 37.5773194,48.4824776,0
-                37.5850555,48.4491121,0
-                37.5984215,48.4479543,0
-                37.612464,48.4517168,0
+                37.5813604,48.466364,0
+                37.5938513,48.463942,0
+                37.6035091,48.4550894,0
+                37.6133223,48.4541646,0
                 37.6230872,48.4590059,0
                 37.639809,48.4633679,0
                 37.6389369,48.4680138,0
@@ -14065,6 +14104,165 @@ nombre:</value>
                 37.2578712,48.3869144,0
                 37.2570729,48.3873029,0
                 37.2567349,48.3862627,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Многоугольник 182</name>
+        <description><![CDATA[<br><br>descripción: <br>nombre: <br>nom: ]]></description>
+        <styleUrl>#poly-F48FB1-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="nom">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                37.557073,48.4617072,0
+                37.5594702,48.4493255,0
+                37.5623502,48.4481088,0
+                37.5675887,48.4483813,0
+                37.5729985,48.4445545,0
+                37.5880993,48.4413335,0
+                37.60016,48.4432061,0
+                37.5993017,48.4444018,0
+                37.5904612,48.447647,0
+                37.5881437,48.4590321,0
+                37.5722651,48.4580076,0
+                37.5706343,48.4628456,0
+                37.557073,48.4617072,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Многоугольник 183</name>
+        <description><![CDATA[<br><br>descripción: <br>nombre: <br>nom: ]]></description>
+        <styleUrl>#poly-F48FB1-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="nom">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                36.6931378,48.0955172,0
+                36.7009484,48.0930521,0
+                36.710819,48.0941987,0
+                36.7260543,48.0906347,0
+                36.7275134,48.0920393,0
+                36.7342941,48.0925266,0
+                36.7364398,48.0934438,0
+                36.743027,48.0939252,0
+                36.7444003,48.0959889,0
+                36.7564166,48.0982819,0
+                36.7448731,48.1018027,0
+                36.7356034,48.1048978,0
+                36.7201539,48.1036369,0
+                36.7201539,48.1005417,0
+                36.7089959,48.0990513,0
+                36.7040177,48.097217,0
+                36.6931378,48.0955172,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Многоугольник 184</name>
+        <description><![CDATA[<br><br>descripción: <br>nombre: <br>nom: ]]></description>
+        <styleUrl>#poly-F48FB1-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="nom">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                36.0277774,47.5278176,0
+                36.0101821,47.5290926,0
+                36.0089805,47.5307733,0
+                35.9899261,47.5297881,0
+                35.9840037,47.5271801,0
+                35.9741332,47.5274119,0
+                35.9738757,47.521674,0
+                35.9816863,47.5212103,0
+                35.985377,47.5235287,0
+                35.9887244,47.5229491,0
+                35.9907844,47.518312,0
+                35.989969,47.514834,0
+                35.9950445,47.5138095,0
+                36.0034286,47.5276715,0
+                36.0277774,47.5278176,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Многоугольник 185</name>
+        <description><![CDATA[<br><br>descripción: <br>nombre: <br>nom: ]]></description>
+        <styleUrl>#poly-F48FB1-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="nom">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                35.2806304,47.6431548,0
+                35.2881835,47.6451209,0
+                35.3080962,47.6377187,0
+                35.3135909,47.6285209,0
+                35.3202842,47.612497,0
+                35.3239224,47.6126041,0
+                35.3264973,47.6348183,0
+                35.3277848,47.6521088,0
+                35.3130219,47.6577747,0
+                35.3112195,47.6654631,0
+                35.2976582,47.6601449,0
+                35.2872727,47.6488131,0
+                35.2807496,47.6454015,0
+                35.2806304,47.6431548,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
