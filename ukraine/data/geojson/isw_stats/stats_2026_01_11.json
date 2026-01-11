@@ -1,0 +1,111 @@
+{
+  "source": "ISW",
+  "date": "2026_01_11",
+  "summary": {
+    "layers_total": 12,
+    "layers_ingested": 9,
+    "layers_empty": 3,
+    "layers_skipped": 0,
+    "input_features": 243,
+    "dropped_features": 11,
+    "output_features": 9
+  },
+  "layers": [
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/Russian_Advances_in_Russia_View/FeatureServer/4",
+      "name": "Russian Advances in Russia",
+      "skipped": false,
+      "objectid_count": 0,
+      "feature_count": 0,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/MDS_Claimed_Limit_of_Ukrainian_AdvanceV2_view/FeatureServer/1",
+      "name": "MDS_Claimed_Limit_of_Ukrainian_AdvanceV2",
+      "skipped": false,
+      "objectid_count": 5,
+      "feature_count": 5,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/Claimed_Russian_Advances_in_Russia_View/FeatureServer/5",
+      "name": "Claimed Russian Advances in Russia",
+      "skipped": false,
+      "objectid_count": 11,
+      "feature_count": 10,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/VIEW_RussiaCoTinUkraine_V3/FeatureServer/49",
+      "name": "Assessed Russian-controlled Ukrainian Territory",
+      "skipped": false,
+      "objectid_count": 11,
+      "feature_count": 11,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/VIEW_Russian_controlled_Ukrainian_Territory_before_February_24_2022/FeatureServer/36",
+      "name": "DonbasBeforeFeb24_2022",
+      "skipped": false,
+      "objectid_count": 2,
+      "feature_count": 2,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/ClaimedRussianTerritoryinUkraine_V2_view/FeatureServer/0",
+      "name": "ClaimedRussianTerritoryinUkraine_V2",
+      "skipped": false,
+      "objectid_count": 107,
+      "feature_count": 103,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/MDS_AssessedRussianInfiltrationAreasinUkraine_V3_view/FeatureServer/820",
+      "name": "Assessed Russian Infiltration Areas in Ukraine",
+      "skipped": false,
+      "objectid_count": 0,
+      "feature_count": 0,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/AssessedRussianAdvanceInUkraine_V2_view/FeatureServer/0",
+      "name": "AssessedRussianAdvancesinUkraine_V2",
+      "skipped": false,
+      "objectid_count": 58,
+      "feature_count": 58,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/VIEW_ClaimedUkrainianCounteroffensives_V2/FeatureServer/51",
+      "name": "Claimed Ukrainian Counteroffensives",
+      "skipped": false,
+      "objectid_count": 23,
+      "feature_count": 17,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/Assessed_Russian_Gains_in_the_Past_24_Hours_view/FeatureServer/0",
+      "name": "Assessed_Russian_Gains_in_the_Past_24_Hours",
+      "skipped": false,
+      "objectid_count": 0,
+      "feature_count": 0,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/MDS_ClaimedUkrainianCounteroffensives_V2_view/FeatureServer/0",
+      "name": "MDS_ClaimedUkrainianCounteroffensives_V2",
+      "skipped": false,
+      "objectid_count": 25,
+      "feature_count": 25,
+      "chunk_size": 500
+    },
+    {
+      "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/MDS_ClaimedUkrainianCounteroffensivesinthePast24HoursV2_view/FeatureServer/13",
+      "name": "ClaimedUkrainianCounteroffensivesinthePast24HoursV2",
+      "skipped": false,
+      "objectid_count": 1,
+      "feature_count": 1,
+      "chunk_size": 500
+    }
+  ]
+}
