@@ -3,12 +3,12 @@
   "date": "2026_01_12",
   "summary": {
     "layers_total": 12,
-    "layers_ingested": 10,
-    "layers_empty": 2,
+    "layers_ingested": 9,
+    "layers_empty": 3,
     "layers_skipped": 0,
-    "input_features": 258,
+    "input_features": 248,
     "dropped_features": 11,
-    "output_features": 10
+    "output_features": 9
   },
   "layers": [
     {
@@ -55,8 +55,8 @@
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/ClaimedRussianTerritoryinUkraine_V2_view/FeatureServer/0",
       "name": "ClaimedRussianTerritoryinUkraine_V2",
       "skipped": false,
-      "objectid_count": 108,
-      "feature_count": 104,
+      "objectid_count": 106,
+      "feature_count": 102,
       "chunk_size": 500
     },
     {
@@ -87,16 +87,16 @@
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/Assessed_Russian_Gains_in_the_Past_24_Hours_view/FeatureServer/0",
       "name": "Assessed_Russian_Gains_in_the_Past_24_Hours",
       "skipped": false,
-      "objectid_count": 7,
-      "feature_count": 7,
+      "objectid_count": 0,
+      "feature_count": 0,
       "chunk_size": 500
     },
     {
       "url": "https://services5.arcgis.com/SaBe5HMtmnbqSWlu/arcgis/rest/services/MDS_ClaimedUkrainianCounteroffensives_V2_view/FeatureServer/0",
       "name": "MDS_ClaimedUkrainianCounteroffensives_V2",
       "skipped": false,
-      "objectid_count": 25,
-      "feature_count": 25,
+      "objectid_count": 24,
+      "feature_count": 24,
       "chunk_size": 500
     },
     {
